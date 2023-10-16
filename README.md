@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AgroFarm Web App<br><br>🌱 I’m currently learning ReacJS , MEARN<br><br>💬 Ask me about Android , Front-end<br><br>📫 How to reach me atharv942078@gmail.com
+🔭 I’m currently working on AgroFarm Web App<br><br>🌱 I’m currently learning ReacJS , MERN<br><br>💬 Ask me about Android , Front-end<br><br>📫 How to reach me atharv942078@gmail.com
 
 
 ## 🌐 Socials:
